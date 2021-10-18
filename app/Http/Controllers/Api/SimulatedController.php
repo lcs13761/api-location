@@ -73,7 +73,7 @@ class SimulatedController extends Controller
             CURLOPT_CUSTOMREQUEST => 'GET',
             CURLOPT_HTTPHEADER => array(
                 'x-rapidapi-host: trueway-geocoding.p.rapidapi.com',
-                'x-rapidapi-key: 4e2b3ffe20mshf6f841804199ed8p1d1d20jsn3c80966898ac'
+                'x-rapidapi-key: '
             ),
         ));
 
